@@ -13,7 +13,7 @@ from helper.date import add_date ,check_expi
 CHANNEL = os.environ.get('CHANNEL',"anumitultrabots")
 import datetime
 from datetime import date as date_
-STRING = os.environ.get("STRING","BQFnf5gAcrlqjnIKKGMx5Z6TUujM6axfRyIvEZwB4nJtA9NJ8cKONavzMj6GsNwVwZk8qyIaSz1-ghrfaVzBNwFnpsre-aJBmrC2rgvCXvgk6cSZ-LCu0wE_V1DtmDq7CC4_d3dZM56gjsI5RhKREjya73fBHpbY5mlNOq3xYZ9K2r5b9WaA34QL4XZa2s-z3YAHjM6qhfQCByNQHtx7KCkO-JYjjmva3r9k13fRdVq2rm0ITbMjIdAcFBtTTyOk4iEJPK7suTeB5bmWejs7rdbqTD5y9bgrH8vFh6ETP7lH_HPmiPPO69t53vlHs5LLL-ri94MMQA8EhwynZ7wT6flnQxiQRAAAAABvJ4dUAA")
+STRING = os.environ.get("STRING","")
 log_channel = int(os.environ.get("LOG_CHANNEL","-1001847011203"))
 
 #Part of Day --------------------
