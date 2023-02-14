@@ -19,7 +19,7 @@ async def upgrade(bot,update):
 	Price Rs 60  🇮🇳/🌎 6$  per Month
 	
 	
-	Pay Using Upi I'd ```ultrabots.famc@idfcbank```
+	Pay Using Upi I'd ```amit8270@fbl```
 	
 	After Payment Send Screenshots Of 
         Payment To Admin"""
